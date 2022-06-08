@@ -1,2 +1,2 @@
-# Portafolio-graphics
-Contenido Gráfico acerca de mi Portafolio Personal
+# PortafolioGraphics
+* Contenido Gráfico acerca de mi Portafolio Personal
